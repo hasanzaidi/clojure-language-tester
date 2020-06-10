@@ -1,0 +1,14 @@
+target/
+lib/
+classes/
+checkouts/
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-env
+repl-port
+.idea
+.midje.clj
+*.iml
+*.jar
+doc-updated.txt

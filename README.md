@@ -2,5 +2,8 @@
 
 Repo for demonstrating core functionality of Clojure.
 
-## TODO
-Add leiningen build with unit tests
+## Running
+Can run unit tests using:
+```
+lein test
+```

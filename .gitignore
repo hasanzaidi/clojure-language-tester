@@ -12,3 +12,7 @@ repl-port
 *.iml
 *.jar
 doc-updated.txt
+
+
+# OS files
+.DS_Store
